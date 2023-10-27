@@ -1,8 +1,13 @@
-# thinkjs
+Thinkjs
 
-Used - codeigniter 4 framework
-Database - MySql (RDBMS)
-Used - jquery datatable
-front end - bootstrap, html, css, javascript, jquery, ajax
+
+<h3 align="left">Used - codeigniter 4 framework</h3>
+<h3 align="left">Database - MySql (RDBMS)</h3>
+<h3 align="left">Used - jquery datatable</h3>
+<h3 align="left">front end - bootstrap, html, css, javascript, jquery, ajax</h3>
+
+
+
+
 
 
